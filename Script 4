@@ -1,0 +1,15 @@
+Welcome to Cloud Shell! Type 'help' to get started.
+Your Cloud Platform project in this session is set to tenacious-tiger-444202-00.
+Use "gcloud config set project [PROJECT ID) to change to a different project.
+tirta0446@cloudshell: (tenacious-tiger-444202-00) nano latihan3.sh
+tirta0446@cloudshell: (tenacious-tiger-444202-40)$
+cat latihan3.sh
++
+#!/bin/bash
+echo "seript untukmenerima input"
+echo "==============================="
+echo "Tirts Arya Fangestu
+read nama
+echo "==============================="
+echo "nama saya adalsh Hobi
+tirta0446@cloudshell: (tenacious-tiger-444202-00)$
