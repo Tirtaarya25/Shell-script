@@ -1,0 +1,15 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to tenacious-tiger-444202-do.
+Use
+gcloud config set project (PROJECT ID]" to change to a different project.
+tirta0446@cloudshell:
+(tenacious-tiger-444202-d0)$ pwd
+/home/tirta0446
+(tenacious-tiger-444202-10)$ nano hello.sh
+tirta0446@cloudshell:
+(tenacious-tiger-444202-d0)$ chmodx hello.sh
+tirta0446@cloudshell:
+(tenacious-tiger-444202-d0)$ ./hello.sh
+tirta0446@cloudshell:
+hello world!
+tirta0446@cloudshell: (tenacious-tiger-444202-10)S
